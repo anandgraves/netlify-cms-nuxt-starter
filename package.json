@@ -19,7 +19,7 @@
     "data": "node ./dump-netlifycms-data.js"
   },
   "dependencies": {
-    "@nuxt/content": "^1.6.1",
+    "@nuxt/content": "^1.7.0",
     "marked": "^1.1.0",
     "nuxt": "^2.14.3",
     "to-vfile": "^6.1.0",
