@@ -20,7 +20,7 @@
   "dependencies": {
     "@nuxt/content": "^1.9.0",
     "marked": "^1.1.1",
-    "nuxt": "^2.14.5",
+    "nuxt": "^2.14.9",
     "to-vfile": "^6.1.0",
     "vfile-matter": "^1.0.2"
   },
